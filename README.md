@@ -1,5 +1,7 @@
 # Words Ani 
 
+<img src="/logo.png" alt="Words Ani Logo" width="700px" height="500px">
+
 Words Ani is a fun little webpage that makes a word appear in a cool-looking way.
 It is built mainly using JQuery
 
